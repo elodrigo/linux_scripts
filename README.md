@@ -1,5 +1,5 @@
 ## Purpose
-To push changed files from the development computer to the local test server, and backup files from the local test server.
+To pull changed files from the development computer to the USB device, and push those files to the local test server. Overwritten files in the local test server will be backed up in the USB device.
 
 ## Usage
 ##### 1. Save pull1.sh and push2.sh in a removable USB device
