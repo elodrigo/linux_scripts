@@ -1,5 +1,5 @@
 ## Purpose
-To pull changed files from the development computer to the local test server.
+To push changed files from the development computer to the local test server, and backup files from the local test server.
 
 ## Usage
 #####1. Some variables have to be set priorily
