@@ -15,6 +15,7 @@ To pull changed files from the development computer to the USB device, and push 
 	ex) If file's absolute path is, /home/my_id/working_dicretory/my_project/this_file_changed.py
     and the other is
     /home/my_id/working_directory/myproject/first_directory/the_other_changed.py
+    
     In working_list.txt, write as below
     
     this_file_change.py
